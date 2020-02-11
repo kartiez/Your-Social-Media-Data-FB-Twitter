@@ -1,4 +1,3 @@
-
 Using Python Flask for web hosting
 
 Microsoft Azure for Database
