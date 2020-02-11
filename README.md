@@ -1,10 +1,10 @@
-> Using Python Flask for web hosting
+# > Using Python Flask for web hosting
 
-> Microsoft Azure for Database
+# > Microsoft Azure for Database
 
-> Ajax to get the live data
+# > Ajax to get the live data
 ====================================================================
-Setup:
+# Setup:
 
 1. Get Facebook Token.
 2. Get Twitter Tokens (Consumer key, Secret Key etc..)
@@ -16,4 +16,4 @@ Setup:
 
 ====================================================================
 
-That's it!!
+# That's it!!
